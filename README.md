@@ -1,7 +1,7 @@
 # Музыкальный плеер
 *при первом запуске, нужно выдать разрешение на память
 <img src = "https://github.com/frosty77088/music-player/blob/master/screenshots/imgonline-com-ua-2to1-nepo8L5YRBEDr.png" width = "800">
-<img src = "https://github.com/frosty77088/music-player/blob/master/screenshots/Screenshot_20190520-001256_framed.png" width = "400">
+<img src = "https://github.com/frosty77088/music-player/blob/master/screenshots/Screenshot_20190520-001256_framed.png" width = "400"><br>
 
 ### Плеер позволяет осуществлять следующие действия:<br>
 1. Переключение треков вперёд-назад<br>
