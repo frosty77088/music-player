@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <Preference
+        android:defaultValue="/storage/emulated/0"
+        android:key="audio"
+        android:summary="Выберите папку, в которой находятся аудиогиды"
+        android:title="Путь для аудио" />
+    <Preference
+        android:defaultValue="storage/emulated/0/htmls"
+        android:key="doc"
+        android:summary="Выберите папку в которой находятся текстовые описания"
+        android:title="Путь для документов" />
+</PreferenceScreen>
